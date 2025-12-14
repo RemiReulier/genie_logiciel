@@ -2,8 +2,8 @@
 Dépôt créé dans le cadre du TP initiation à GIT à destination des 4A SAGI de Polytech Angers
 
 <pre>
-fonctions : <br />
-    calculatrice <br />
-    dessiner <br />
-    date et heure <br />
+fonctions :
+    calculatrice
+    dessiner
+    date et heure
 </pre>
