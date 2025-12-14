@@ -1,0 +1,6 @@
+[submodule "Exercice2/dev1/SuperApplication"]
+	path = Exercice2/dev1/SuperApplication
+	url = ./Exercice2/dev1/SuperApplication
+[submodule "Exercice2/dev2/SuperApplication"]
+	path = Exercice2/dev2/SuperApplication
+	url = ./Exercice2/dev2/SuperApplication
